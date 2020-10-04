@@ -1,5 +1,5 @@
 # Hardware-Design
-Copy of school repo from Junior Year
+Copy of student repo from Junior Year
 
 Most important folder included is the proj folder, which holds the final project ASM files.
 
